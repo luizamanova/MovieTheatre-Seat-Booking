@@ -8,4 +8,4 @@ const ticketPrice = movieSelect.value;
 
 console.log(ticketPrice);
 
-container.
+//To be continued
